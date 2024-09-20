@@ -4,9 +4,10 @@ title:        "成语９"
 author:       "kevpa"
 header-style: text
 catalog:      true
+header-img: "img/post-bg-miui6.jpg"
 tags:
-    - Web
-    - JavaScript
+    - 成语
+    - 语文
 ---
 
 # 01 <span style="font-family:KaiTi; font-size:30px; color: #d7003a"><span style="font-family:KaiTi; font-size:30px; color: #00e500">为</span>虎添翼</span> 👈️ [^001] 
