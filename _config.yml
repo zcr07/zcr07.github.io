@@ -1,11 +1,11 @@
 # Site settings
 title: Hux Blog
-SEOTitle: 啪啪撕 | Kev Zh
+SEOTitle: 🏹 啪啪撕 🩻
 header-img: img/home-bg.jpg
 email: k@r08.us.kg
-description: "新浴者必振衣 | 吾知所以距子矣"
+description: "孰为汝多知乎 | 吾知所以距子矣"
 keyword: "博客, 个人网站, 高中语文"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://r08.us.kg/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
