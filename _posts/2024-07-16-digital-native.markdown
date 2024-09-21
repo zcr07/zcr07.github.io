@@ -3,7 +3,7 @@ layout:     post
 title:      "文言文"
 subtitle:   " \"古文 实词\""
 date:       2024-07-19 12:00:00
-author:     "zbb"
+author:     "Kev"
 header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
