@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "小家伙，你在看什么？ <br> 苩苩丝 @ 麦桑"
-sidebar-avatar: https://tuku.zcr07.us.kg/file/d522f46eebe11f279d164.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "看起来还不错呀！ <br> 啪啪咝 @ 麦桑"
+sidebar-avatar: https://cdn.jsdelivr.net/gh/zcr07/picx-images-hosting@master/1/e.7egqk85mn5.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
