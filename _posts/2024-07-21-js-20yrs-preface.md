@@ -3,9 +3,9 @@ layout:     post
 title:      "文言文"
 subtitle:   " \"虚词 而\""
 date:       2024-07-19 12:00:00
-author:     "zbb"
-header-img: "img/home-bg-art.jpg"
-catalog: true
+author:     "kev"
+header-img: "img/home-bg-art.png"
+catalog:  true
 tags:
     - 文言文
     - 虚词
