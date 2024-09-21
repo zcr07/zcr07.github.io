@@ -8,6 +8,7 @@ header-img: "img/post-bg-js-module.jpg"
 catalog: true
 tags:
     - 成语
+    - 语文
 ---
 
 > “成语五百伴”

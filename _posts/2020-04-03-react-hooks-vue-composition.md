@@ -5,9 +5,9 @@ subtitle: "Thinking in React vs. Thinking in Vue"
 author: "Hux"
 header-style: text
 tags:
-  - 知乎
-  - Web
-  - React
+  - 
+  - 
+  - 
 ---
 
 > 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/378861485/answer/1125724740)
