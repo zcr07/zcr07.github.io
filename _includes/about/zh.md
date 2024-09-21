@@ -1,57 +1,31 @@
-Hey，我是黄玄（a.k.a. Hux, _@huxpro_），一个略懂计算机科学与艺术的斜杆不动青年，自诩是一个[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)数字媒体艺术系与 RIT 计算机科学系（师从 [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/) 专攻编程语言）杂交出来的[黑客与画家](https://book.douban.com/subject/6021440/)。
+- Hey，我是Kev
+- 我想分享一段文章给大家
 
-现为 <del>Facebook</del> Meta 签约软件工程师，就职于开源技术<del>网红</del>团队 [React](https://beta.reactjs.org/community/meet-the-team#react-core)，曾参与 [Hermes JavaScript 引擎](https://hermesengine.dev/)，[ReasonML](https://reasonml.github.io/) (现 [ReScript](https://rescript-lang.org/))，以及 [Reality Labs](https://tech.fb.com/ar-vr/) 某保密项目等。在国内期间，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
+#### 徐继畲yú
+- 华盛顿纪念碑 是美国首都华盛顿的地标性建筑，也是 *世界上最高的石制建筑*，是为了纪念美国国父、首任总统华盛顿而建造的。
+- 华盛顿**纪念碑内部石壁上，镶嵌有193块石碑**，其中有一块刻有中文，砌于纪念碑内第十级内壁上。
+  
+- 石碑由花岗岩制作，字体为正楷，黑漆碑文如下： 
+- 钦命福建巡抚、部院大中丞徐继畬所著《瀛寰志略》曰：按，
 
+- 华盛顿，异人也。
 
-目前的物理活动范围主要在美帝纽约与硅谷，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[B站](https://space.bilibili.com/43271611)、[Instagram](https://www.instagram.com/huxpro/)、[推特](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro) 等。
+- 起事勇于胜广，割据雄于曹刘，
 
+- 既已提三尺剑，开疆万里，乃不僭位号，不传子孙，而创为推举之法，几于天下为公。其治国崇让善俗，不尚武功，亦迥与诸国异。
+ 
+- 余见其画像，气貌雄毅绝伦，呜呼，可不谓人杰矣哉！
+ 
+- 米利坚合众国之为国，幅员万里，不设王侯之号，不循世袭之规，公器付之公论，创古今未有之局，一何奇也！泰西古今人物，能不以华盛顿为称首哉！
+  
+- 大清国浙江宁波府镌，耶稣教信辈立石，咸丰三年六月初七日，合众国传教士识。 
+- 品读碑文，不难体味出徐继畬对华盛顿与美国的赞誉之情。徐继畬认为，华盛顿勇武胜过陈胜吴广，豪雄超越曹操刘备，且功成不居，不恋权位；创推举之法，乃古代圣贤“天下为公”遗意之体现者。此外，还对美国“不设王侯之号，不循世及之规，公器付之公论，创古今未有之局”的新制度予以衷心赞美。
+- 1783年，美国独立战争结束，大陆军总司令华盛顿把总司令之职交还给大陆会议。这是人类历史上第一次不依靠外在压力，仅仅依靠内心道德力量就自觉放弃权力。美国人坚信，国家不能靠武力来管理，因此避免了在其他国家司空见惯的君主制和军政府。华盛顿后来两次当选总统。当众人极力推荐他连任第三届总统时，华盛顿果断拒绝，又开创了摒弃终身总统、和平转移权力的先例。这就是徐继畬赞美华盛顿的大致理由。 
+- 徐继畬被誉为中国近代开眼看世界第一人。他是山西五台人，在福建、广东沿海任职十余年、官至福建巡抚。鸦片战争之惨败给徐继畬触动极大。在政务之余，徐继畬开始访问西人，搜集资料，著成《瀛环志略》。这是一部继魏源《海国图志》之后更加系统地论述世界地理与历史的重要著作。1848年，当《共产党宣言》问世时，《瀛环志略》付梓了。 
+- 在《瀛寰志略》中，徐继畲清晰而准确地告诉国人，地球上另有一个与中国完全不同的世界。他在《瀛环志略》中介绍了英、美、法、俄、瑞士等国的选举制、议会制和立宪制，对于议会的组成、职权范围等，都作了详细叙述。 在当时大清王朝专制的统治下，徐继畬对西方政治制度的介绍与推崇，后果可想而知。《瀛环志略》一经出版，士大夫们立即强烈攻击徐继畬，痛骂他身为朝廷命官，竟敢影射抨击天朝制度，公开赞美外国元首，与西洋传教士沆瀣一气，“称颂夷人，献媚夷酋”！用今天的话说就是“崇洋媚外”、“投降卖国”。就连思想开放、曾称赞徐继畬为“天下奇才”的曾国藩，也认为徐继畬著书“颇张大英夷”。1852年，徐继畬被革职回乡。 
+- 差不多同一时期，美国政府为纪念国父华盛顿决定建造纪念碑，并于1848年7月4日国庆节奠基，并向全世界征集纪念物。当美国向中国征集纪念物时，由于中国的封闭和国人视野的狭窄，竟无相关可用之物。在浙江宁波的美国传教士丁韪良，通过中文老师张斯桂得知徐继畬对华盛顿不仅非常了解，而且十分推崇。于是，购买上等石料制碑。1853年，石碑漂洋过海到达美国。 
+- 100多年后，美国总统克林顿于1998年访华期间在北京大学演讲，专门对这份约一个半世纪前的中国赠礼表示感谢： “从我居住的华盛顿特区白宫的窗口向外眺望，我们第一任总统乔治·华盛顿的纪念碑俯视全城。那是一座高耸的方形尖塔。在这个庞大的纪念碑旁，有一块很小的石碑，上面刻着的碑文是：美国决不设置贵族和皇室头衔，也不建立世袭制度。国家事务由舆论公决。美国就是这样建立了一个从古至今史无前例的崭新政治体系。这是最奇妙的事物。这些话不是美国人写的，而出自福建巡抚徐继畬之手，并于1853年由中国政府刻成碑文，作为礼物送给美国。 我十分感谢这份来自中国的礼物。它直探我们作为人的内心愿望：拥有生存、自由、追求幸福的权利，也有不受国家干预的言论、结社和信仰等自由。这些就是美国220年前赖以立国的核心理想。这些就是引导我们横跨美洲大陆登上世界舞台的理想。这些就是美国人今天仍然珍惜的理想。” 
+- 在晚清众多官吏中，徐继畬的名声并不大，洋务运动开始后复出，被任命为总理各国事务衙门行走。虽然他的思想非常超前，但他的名字就像他的书《瀛环志略》一样长期默默无闻。克林顿演讲后，徐继畬才慢慢重新回到中国人的视野。 近代中国人向西方学习的历程是器物——制度——文化的递进次序，而徐继畬早在《瀛环志略》中就勇敢地透过器物表面，看到了西方强国在政治制度、经济制度以及文化等方面的先进性。这种先知先觉，直至今天恐怕都还值得国人警醒。
 
-##### 技术演讲
+<p align = "center"><img src="https://cdn.jsdelivr.net/gh/kevzcr/picx-images-hosting@master/4/image.esgzynk2a.png" style="width:400px;">
 
-- [React 国情咨文 2022][13] · 第七届中国开源年会 · 2023
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [Youtube](https://www.youtube.com/watch?v=RWzMF-1fjJ8&t=1s) · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
-
-
-##### 媒体关注
-
-- [Hux 黄玄：从全局视角看 React 生态][14] · 直播 · 图灵 8 点半 · 2023
-- [2022 中国开源先锋 33 人][18] · SegmentFault · 2023
-- [React 黄玄：不懂艺术的 B-Boy 不是 Swag 的程序员][16] · Gitee 封面人物 · 2022
-- [在硅谷当程序员是怎样的体验？][17] · 知乎[《我所向往的职业啊》](https://movie.douban.com/subject/36015036/) · 2022
-
-<!--
-- [掘金 AMA：我是前端娱乐圈的老人 & Facebook 实习生 -- 黄玄][19] · 2018
--->
-
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
-[13]: https://www.bilibili.com/video/BV1LY411Q7hC/?spm_id_from=333.999.0.0
-[14]: https://appycyfaqcq1951.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_64477dbfe4b0cf39e6c11d2a
-[15]: https://segmentfault.com/a/1190000043208486
-[16]: https://gitee.com/gitee-stars/30
-[17]: https://www.zhihu.com/zvideo/1542577108190068737?page=ogv
-[18]: https://segmentfault.com/a/1190000043208486
-[19]: https://juejin.cn/post/6844903750155419655
