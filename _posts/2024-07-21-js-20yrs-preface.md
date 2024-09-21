@@ -4,8 +4,8 @@ title:      "文言文"
 subtitle:   " \"虚词 而\""
 date:       2024-07-19 12:00:00
 author:     "kev"
-header-img: "img/home-bg-art.png"
-catalog:  true
+header-img: "img/post-bg-rwd.jpg"
+catalog: true
 tags:
     - 文言文
     - 虚词
