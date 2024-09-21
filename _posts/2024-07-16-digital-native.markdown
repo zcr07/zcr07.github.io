@@ -8,6 +8,7 @@ header-img: "img/post-bg-rwd.jpg"
 catalog: true
 tags:
     - 文言文
+        - 实词
 ---
 
 > “文言文短语”
