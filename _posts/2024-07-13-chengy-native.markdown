@@ -4,7 +4,7 @@ title:      "成语学习"
 subtitle:   " \"成语 03\""
 date:       2024-07-13 12:00:00
 author:     "Kev"
-header-img: "img/post-bg-js-module.jpg"
+header-img: "img/post-bg-alitrip.jpg"
 catalog: true
 tags:
     - 成语
