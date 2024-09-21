@@ -4,7 +4,7 @@ title:      "文言文"
 subtitle:   " \"虚词 其\""
 date:       2024-07-19 12:00:00
 author:     "zbb"
-header-img: "img/post-bg-rwd.jpg"
+header-img: "img/post-bg-ios9-web.jpg"
 catalog: true
 tags:
     - 文言文
