@@ -2,7 +2,7 @@
 layout:     post
 title:      "文言文"
 subtitle:   " \"古文 实词\""
-date:       2024-07-19 12:00:00
+date:       2024-07-16 12:00:00
 author:     "Kev"
 header-img: "img/post-bg-os-metro.jpg"
 catalog: true
