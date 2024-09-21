@@ -2,7 +2,7 @@
 layout:     post
 title:      "文言文"
 subtitle:   " \"虚词 而\""
-date:       2024-07-21 12:40:00
+date:       2024-07-21 12:42:00
 author:     "kev"
 header-img: "img/post-bg-rwd.jpg"
 catalog: true
