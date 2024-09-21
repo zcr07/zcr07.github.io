@@ -1,7 +1,7 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 🏹 啪啪撕 🩻
-header-img: img/home-bg.jpg
+SEOTitle: 🌚 啪啪咝 🔭
+SEOTitle: 🚨啪啪咝
+header-img: img/post-bg-alitrip.jpg
 email: k@r08.us.kg
 description: "孰为汝多知乎 | 吾知所以距子矣"
 keyword: "博客, 个人网站, 高中语文"
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: k
+zhihu_username: k
+github_username: kevzcr
+twitter_username: Zcr071225Z
+#facebook_username:  zbb7001
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "小家伙，你在看什么？ <br> 苩苩丝 @ 麦桑"
+sidebar-avatar: https://tuku.zcr07.us.kg/file/d522f46eebe11f279d164.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -89,14 +89,10 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+博客群:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "bo", href: "https://bo.zbb07.us.kg/" },
+    { title: "bk", href: "https://bk.zcr07.us.kg/" },
+    { title: "zbb07", href: "https://www.zbb07.us.kg/" },
+    { title: "kevzcr", href: "https://kevzcr.serv00.net/" },
   ]
