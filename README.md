@@ -1,4 +1,4 @@
-[Kev Blog](https://www.zcr07.us.kg/)
+[叭叭粢](https://0.r08.us.kg/)
 ================================
 
 > 引壶觞以自酌 眄庭柯以怡颜
@@ -8,7 +8,7 @@
 
 
 
-### 致谢
-- 这个模板fork自
-- https://github.com/Huxpro/huxpro.github.io
+### Github
+- 编辑地址：
+- https://github.dev/zcr07/zcr07.github.io
 
