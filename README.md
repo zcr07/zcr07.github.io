@@ -10,5 +10,5 @@
 
 ### Github
 - 编辑地址：
-- [https://github.dev/zcr07/zcr07.github.io](https://github.com/zcr07/zcr07.github.io)
+- [Github](https://github.com/zcr07/zcr07.github.io](https://github.com/zcr07/zcr07.github.io/tree/master/_posts))
 
